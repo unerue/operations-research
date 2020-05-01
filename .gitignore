@@ -1,7 +1,10 @@
 .ipynb_checkpoints
+__pycache__
 
 
-
+*.zip
+*.log
+*.gif
 *.xlsx
 *.xls
 *.docx
@@ -10,3 +13,10 @@
 *.hwp
 *.pptx
 *.ipynb
+
+
+*.rfm
+*.frx
+*.pdf
+*.ltx
+
